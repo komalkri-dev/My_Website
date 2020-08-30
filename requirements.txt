@@ -120,6 +120,7 @@ urllib3==1.25.9
 watchdog==0.10.3
 wcwidth==0.1.7
 webencodings==0.5.1
+whitenoise==5.2.0
 widgetsnbextension==3.5.1
 wrapt==1.12.1
 yapf==0.30.0
